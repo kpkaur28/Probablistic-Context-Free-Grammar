@@ -2,11 +2,13 @@
 NLP (AI) Course Project 
 
 Assignment - Proabilistic Context Free Grammar
+
 In this assignment, you will apply what you learnt about probabilistic
 context free grammar (PCFG) to answer questions about different PCFG
 implementation and design your own grammar for better PCFG parsing.
 
 Get Started
+
 Download the tarball file.
 What’s included are two scripts and three data files.The script cfggen.pl
 randomly samples sentences from a PCFG. The script cfgparse.pl parses
@@ -133,5 +135,3 @@ Then reduce the cross entropy scores on the expanded evaluation
 sentences.
 (3) Check the fraction of the grammatical sentences generated with your
 grammar using cfggen.pl .
-Submission
-Please
